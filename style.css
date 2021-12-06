@@ -26,3 +26,11 @@ li.navl {
     top: 20px;
     left: 25px;
 }
+.section {
+    background-color: #F9CAC2;
+}
+img.profile {
+    width: 50%;
+    float: right;
+    display: inline-block;
+}
