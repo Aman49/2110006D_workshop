@@ -45,4 +45,9 @@ nav {
     position: absolute;
     bottom: 200px;
     left: 120px;
+    text-align: center;
+}
+.image1{
+    width: 300px;
+    text-align: center;
 }
